@@ -13,6 +13,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.3.1');
   api.use('ecmascript');
+  api.use('fourseven:scss@3.4.1');
   api.mainModule('telekom-branding.js');
   api.addAssets([
     'fonts/telegrotesk-fett.eot',
