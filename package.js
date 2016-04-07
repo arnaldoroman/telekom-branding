@@ -1,6 +1,6 @@
 Package.describe({
   name: 'marcelfahle:telekom-branding',
-  version: '0.0.2',
+  version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'The current Telekom Branding Assets',
   // URL to the Git repository containing the source code for this package.
