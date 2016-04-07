@@ -44,6 +44,7 @@ Package.onUse(function(api) {
     'fonts/teleicon-ui.ttf',
     'fonts/teleicon-ui.woff'
   ], 'client');
+  api.addFiles('telekom.branding.scss');
 });
 
 Package.onTest(function(api) {
